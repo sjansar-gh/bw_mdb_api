@@ -1,0 +1,15 @@
+{
+  "name": "bw_mdb_api",
+  "version": "1.0.0",
+  "description": "BW apis",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Javed Syed",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
